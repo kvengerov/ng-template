@@ -62,6 +62,7 @@ module.exports = {
             ignoreStatic: true,
           },
         ],
+        'no-console': 'error',
       },
     },
     // Configuration for unit and e2e spec files
